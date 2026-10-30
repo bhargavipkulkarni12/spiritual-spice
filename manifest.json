@@ -1,24 +1,20 @@
 {
   "name": "Spiritual Spice - Pure Authentic Organic",
-  "short_name": "Spiritual Spice",
-  "description": "100% Natural Organic Homemade Spices from Malnad - Sorab Karnataka",
-  "start_url": "/spiritual-spice/",
+  "short_name": "Spice",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f1f8f3",
   "theme_color": "#2f6e52",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "logo.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "logo.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
